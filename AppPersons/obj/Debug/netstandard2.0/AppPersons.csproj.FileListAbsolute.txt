@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\ref\AppPersons.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\AppPersons.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\bin\Debug\netstandard2.0\AppPersons.deps.json
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\bin\Debug\netstandard2.0\AppPersons.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\bin\Debug\netstandard2.0\ref\AppPersons.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\bin\Debug\netstandard2.0\AppPersons.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppPersons\AppPersons\obj\Debug\netstandard2.0\DetailView.xaml.g.cs
